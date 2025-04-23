@@ -3,6 +3,8 @@
 ## Installation
 We provide a simple bash file to install the environment:
 
+The pre-trained models for this project can be found on [Baidu Netdisk](https://pan.baidu.com/s/your_link_here)
+
 ```
 cd PointMLPD
 source update.sh
